@@ -39,11 +39,11 @@
 
 ## 1 SAS 软件使用入门
 
-[1 SAS 软件使用入门](./Chapter1/content.md)
+[1 SAS 软件使用入门](./Chapter1/Chapter1.md)
 
-+ [1.1 SAS 语言](./Chapter1/content.md#11-SAS-语言)
++ [1.1 SAS 语言](./Chapter1/Chapter1.md#11-SAS-语言)
 
-+ [1.2 SAS 数据集](./Chapter1/content.md#12-SAS-数据集)
++ [1.2 SAS 数据集](./Chapter1/Chapter1.md#12-SAS-数据集)
 
 
 
