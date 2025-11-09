@@ -2,7 +2,7 @@
 
 > The Little SAS Book 学习笔记
 
-## 0 SAS 安装
+## SAS 安装指引
 
 + 自行搜索，本学习资料采用 9.4 Windows 版本的 SAS
 + 安装后没有增强型编辑器，参考（我也忘了是哪篇解决的了，应该是缺少了 VC 组件，最后通过 `regsvr32`注册）：
@@ -35,15 +35,13 @@
 
 + 运行界面
 
-![image-20251109183435268](./README/image-20251109183435268.png)
+<img src="./README/image-20251109183435268.png" alt="image-20251109183435268" style="zoom:50%;" />
 
-## 1 SAS 软件使用入门
+## 正式章节部分
 
-[1 SAS 软件使用入门](./Chapter1/Chapter1.md)
+[第一章：SAS 软件使用入门](./Chapter1/Chapter1.md)
 
-+ [1.1 SAS 语言](./Chapter1/Chapter1.md#11-SAS-语言)
 
-+ [1.2 SAS 数据集](./Chapter1/Chapter1.md#12-SAS-数据集)
 
 
 
