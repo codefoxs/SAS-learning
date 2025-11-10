@@ -41,7 +41,7 @@
 
 [第一章：SAS 软件使用入门](./Chapter1/Chapter1.md)
 
-
+[第二章：导入数据到 SAS](./Chapter2/Chapter2.md)
 
 
 
